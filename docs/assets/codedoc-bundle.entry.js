@@ -12,7 +12,6 @@ import { loadDeferredIFrames } from 'C:/PROJECTS-PERSONAL/victorvogelpoel.coding
 import { smoothLoading } from 'C:/PROJECTS-PERSONAL/victorvogelpoel.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es5/transport/smooth-loading.js';smoothLoading();
 import { tocHighlight } from 'C:/PROJECTS-PERSONAL/victorvogelpoel.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toc-highlight.js';tocHighlight();
 import { postNavSearch } from 'C:/PROJECTS-PERSONAL/victorvogelpoel.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/search/post-nav/index.js';postNavSearch();
-import { zoomOnFormula } from 'C:/PROJECTS-PERSONAL/victorvogelpoel.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es5/components/formula/zoom-on-formula.js';zoomOnFormula();
 import { reloadOnChange } from 'C:/PROJECTS-PERSONAL/victorvogelpoel.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es5/serve/reload.js';reloadOnChange();
 import { ToCPrevNext } from 'C:/PROJECTS-PERSONAL/victorvogelpoel.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js';
 import { GithubSearch } from 'C:/PROJECTS-PERSONAL/victorvogelpoel.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es5/components/misc/github/search.js';
