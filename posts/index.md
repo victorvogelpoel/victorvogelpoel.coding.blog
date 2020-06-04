@@ -16,7 +16,7 @@ it to showcase your latest / most-important blog posts (or whatever suites your 
 You can modify its content by editting `posts/index.md`.
 
 ---
-
+ 
 # Latest Posts
 
 So here are the latest posts:
